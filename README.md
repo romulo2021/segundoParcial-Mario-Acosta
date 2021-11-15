@@ -1,2 +1,0 @@
-# test
-repositorio de prueba
